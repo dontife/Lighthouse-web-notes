@@ -10,5 +10,5 @@ This repository contains all of the notes taken by [Boluwatife](https://github.c
 
 
 ## Tables Of Contents
-* [week 1](Week_1)
+* [Week 1](Week_1)
   * [Day 1](Week_1/Day_1)
